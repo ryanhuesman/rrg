@@ -8,14 +8,14 @@ Kentucky's historic Red River Gorge
 https://ryanhuesman.github.io/rrg/
 
 #### Image of the basemap
-![Base Map](images/BaseMap.jpg)
+![Base Map](Images/BaseMap.jpg)
 
 ## Photo's from arches in the basemap:
 
-![Gray's Arch](images/graysArch.jpg)
+![Gray's Arch](Images/graysArch.jpg)
 Gray's Arch, photographed by Heidi and Ulrich Burkhalter
 
-![Turtle Back Arch](images/turtleBackArch.jpg)
+![Turtle Back Arch](Images/turtleBackArch.jpg)
 Turtle Back Arch, photographed by Michael Harr
 
 
