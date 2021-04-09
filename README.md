@@ -8,7 +8,7 @@ Kentucky's historic Red River Gorge
 https://ryanhuesman.github.io/rrg/
 
 #### Image of the basemap
-![Base Map](Images/BaseMap.jpg)
+![Base Map](Images/baseMap.jpg)
 
 ## Photo's from arches in the basemap:
 
