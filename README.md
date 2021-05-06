@@ -34,3 +34,4 @@ Turtle Back Arch, photographed by Michael Harr
 
 Link: [GEO 409 Lab 7 Animation](https://www.youtube.com/watch?v=wqLtX9G03Rk)
 
+[Link to site map](site-map/index.html)
